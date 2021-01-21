@@ -13,15 +13,15 @@ from setuptools import setup, find_packages
 
 setup(
     name = "pyinfura",
-    version = "0.0.1",
+    version = "0.0.2",
     keywords = ("pip", "infura","pyinfura", "infurapi", "pyinfurapi",'eth'),
     description = "easy to use infura api for eth",
     long_description = '',
     license = "MIT Licence",
 
-    url = "https://github.com/index9-44/easymethod.git",
-    author = "yizhang",
-    author_email = "944057541@qq.com",
+    url = "https://github.com/LingNetCn/pyinfura.git",
+    author = "zhaofan",
+    author_email = "damo120@vip.qq.com",
 
     packages = find_packages(),
     include_package_data = True,
